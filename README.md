@@ -1,5 +1,4 @@
 # 🧠 Investing IQ - AI-Powered Stock Dashboard
-
 A sophisticated, real-time investment dashboard powered by artificial intelligence, built with Next.js 15, React 19, and modern web technologies
 
 ![Investing IQ Dashboard](https://img.shields.io/badge/Next.js-15.2.4-black?style=for-the-badge&logo=next.js)
